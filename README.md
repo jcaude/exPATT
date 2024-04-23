@@ -131,8 +131,6 @@ Notice the **BSgenome** prefix that is not shown on the genomes list to optimize
 
 ## Reference
 
-_BRG1 generates subnucleosomes that expand OCT4 binding and function beyond DNA motifs at enhancers._
-
-Marina C. Nocente, Anida Mesihovic Karamitsos, Emilie Drouineau, Waad Albawardi, Ccile Dulary, Florence Ribierre, Hlne Picaud, Olivier Alibert, Jol Acker, Jean-Christophe Aude, Nick Gilbert, Franoise Ochsenbein, Sophie Chantalat, Matthieu Grard
-
+_BRG1 generates subnucleosomes that expand OCT4 binding and function beyond DNA motifs at enhancers._  
+Marina C. Nocente, Anida Mesihovic Karamitsos, Emilie Drouineau, Waad Albawardi, Ccile Dulary, Florence Ribierre, Hlne Picaud, Olivier Alibert, Jol Acker, Jean-Christophe Aude, Nick Gilbert, Franoise Ochsenbein, Sophie Chantalat, Matthieu Grard  
 bioRxiv 2022.09.15.507958; doi: https://doi.org/10.1101/2022.09.15.507958
