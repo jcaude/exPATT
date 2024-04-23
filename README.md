@@ -107,18 +107,18 @@ The `-L` gives a list of all available anotations packages in Bioconductor. Pack
 $Id: 907226b92e8f6069a12ab8da81c2ef171dca4bef $
 
 
-Genome                                   :                       OS       Prov.                Ver. Inst.
-Alyrata.JGI.v1                           :                  Alyrata         JGI                  v1
-Amellifera.BeeBase.assembly4             :               Amellifera     BeeBase           assembly4
-Amellifera.NCBI.AmelHAv3.1               :               Amellifera        NCBI          AmelHAv3.1
+Genome                        :          OS    Prov.        Ver. Inst.
+Alyrata.JGI.v1                :     Alyrata      JGI          v1
+Amellifera.BeeBase.assembly4  :  Amellifera  BeeBase   assembly4
+Amellifera.NCBI.AmelHAv3.1    :  Amellifera     NCBI  AmelHAv3.1
 ...
-Mmusculus.UCSC.mm39                      :                Mmusculus        UCSC                mm39
-Mmusculus.UCSC.mm8                       :                Mmusculus        UCSC                 mm8 *
-Mmusculus.UCSC.mm8.masked                :                Mmusculus        UCSC                 mm8
+Mmusculus.UCSC.mm39           :   Mmusculus     UCSC        mm39
+Mmusculus.UCSC.mm8            :   Mmusculus     UCSC         mm8 *
+Mmusculus.UCSC.mm8.masked     :   Mmusculus     UCSC         mm8
 ...
-Vvinifera.URGI.IGGP12Xv0                 :                Vvinifera        URGI           IGGP12Xv0
-Vvinifera.URGI.IGGP12Xv2                 :                Vvinifera        URGI           IGGP12Xv2
-Vvinifera.URGI.IGGP8X                    :                Vvinifera        URGI              IGGP8X
+Vvinifera.URGI.IGGP12Xv0      :   Vvinifera     URGI   IGGP12Xv0
+Vvinifera.URGI.IGGP12Xv2      :   Vvinifera     URGI   IGGP12Xv2
+Vvinifera.URGI.IGGP8X         :   Vvinifera     URGI      IGGP8X
 ```
 
 To install new annotations package you must do it from an **R** session. For example, if you want to install the _Mmusculus.UCSC.mm39_ version you must use the following command on the R console.
